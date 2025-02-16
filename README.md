@@ -1,9 +1,11 @@
-<!-- Encabezado con efecto neón y GIF animado -->
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpxcTlzNXFnazh1anBpeDFuc2l3dWFhcTZra283bWxnODh2dTVtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif" width="200" alt="Code Rocket">
+  
+<!-- Encabezado con efecto neón -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qJzZ4APiDZQuJDY7vh/giphy.gif" width="200" alt="Code Rocket">
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=35&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=70&lines=¡Hola+👋,+Soy+Smash!;Full+Stack+Developer+💻;Aprendiz+eterno+📚;Amante+del+código+💜" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=35&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=70&lines=¡Hola+👋,+Soy+Smash!;Full+Stack+Developer+💻;Aprendiz+eterno+📚;Amante+del+código+💜" alt="Typing SVG">
     </a>
   </h1>
   <img src="https://komarev.com/ghpvc/?username=SmashWinner&style=flat-square&color=blueviolet" alt="Profile Views"/>
@@ -11,81 +13,79 @@
 
 ---
 
-<!-- Tarjeta 3D con avatar y descripción -->
+<!-- Descripción -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/SmashWinner?v=4" width="150" style="border-radius: 50%; box-shadow: 0 0 25px #8A2BE2; border: 3px solid #8A2BE2">
   
   🌟 **¡Bienvenido a mi perfil GitHub!**  
-  _Apasionado desarrollador aprendiendo nuevos lenguajes y tecnologías cada día_  
-  ☕ _"El café es mi combustible y el código mi pasión"_ ☕
+  *Apasionado desarrollador aprendiendo nuevos lenguajes y tecnologías cada día*  
+  ☕ *"El café es mi combustible y el código mi pasión"* ☕
 </div>
 
 ---
 
-<!-- Sección de habilidades con iconos animados -->
+<!-- Sección de habilidades con iconos -->
 ## 🛠️ Mi Stack Tecnológico
 
 <div align="center">
   
   ### 🔥 **Lenguajes Principales**
-  <br>
-  <img src="https://skillicons.dev/icons?i=java,php,python,js" height="50">
+  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
   ### 🚀 **Frontend & Backend**
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="50">
+  
+  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
   ### ⚙️ **Herramientas & DevOps**
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,azure" height="50">
+  
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
   
 </div>
 
 ---
 
-<!-- Estadísticas con efecto gradiente y diseño modular -->
+<!-- Estadísticas GitHub -->
 ## 📈 Estadísticas GitHub
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=SmashWinner&theme=tokyonight&hide_border=true&border_radius=15&background=45%2C0F172A%2C1E293B)](https://git.io/streak-stats)
-  
-  <a href="https://github.com/SmashWinner">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SmashWinner&theme=tokyonight" width="90%">
-  </a>
-  
-  <a href="https://github.com/SmashWinner">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SmashWinner&theme=tokyonight" width="45%">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SmashWinner&theme=tokyonight" width="45%">
-  </a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmashWinner&theme=tokyonight&hide_border=true&border_radius=15)](https://git.io/streak-stats)
   
   <img src="https://github-profile-trophy.vercel.app/?username=SmashWinner&theme=dracula&margin-w=15&row=2&column=4" alt="Trophies">
+  
 </div>
 
 ---
 
-<!-- Sección de contacto con animación hover -->
+<!-- Sección de contacto -->
 ## 🌐 ¡Conectemos!
 
 <div align="center">
-  <a href="https://discord.gg/s5RXyfHhne" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="65" title="Discord">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tuemail@example.com">
-    <img src="https://img.icons8.com/fluency/96/email.png" width="65" title="Email">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/tuperfil" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="65" title="LinkedIn">
-  </a>
+  
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/s5RXyfHhne)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
+  
 </div>
 
 ---
 
-<!-- Footer animado -->
+<!-- Footer -->
 <div align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=¡Gracias+por+visitar+mi+perfil!;¡Si+te+gusta+lo+que+ves%2C+dale+una+⭐!;¡Feliz+coding+😄!" alt="Footer Typing">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=¡Gracias+por+visitar+mi+perfil!;¡Si+te+gusta+lo+que+ves%2C+dale+una+⭐!;¡Feliz+coding+😄!" alt="Footer Typing">
+</div>
+
 </div>
